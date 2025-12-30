@@ -115,7 +115,9 @@ body {
      display: block;
      margin: 0 auto 20px auto;
      transform: none;
-     width: 200px;
+     width: 300px;
+     /* Dica extra: garante que ela nunca seja maior que a tela do celular */
+    max-width: 90%;
   }
   body {
      flex-direction: column;
