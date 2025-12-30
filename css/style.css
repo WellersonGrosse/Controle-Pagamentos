@@ -113,7 +113,7 @@ body {
   
      position: static;
      display: block;
-     margin: 0 auto -30px auto;
+     margin: 0 auto -40px auto;
      transform: none;
      width: 300px;
      /* Dica extra: garante que ela nunca seja maior que a tela do celular */
